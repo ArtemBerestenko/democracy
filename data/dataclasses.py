@@ -1,5 +1,5 @@
 __author__ = 'aberes'
-from random_functions import *
+from data.random_functions import *
 
 
 class OrgInformationData:

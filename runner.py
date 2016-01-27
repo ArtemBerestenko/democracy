@@ -1,5 +1,5 @@
 __author__ = 'aberes'
-import tests
+from tests import registration_tests
 
 # this is runner
 def run_tests():

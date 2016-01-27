@@ -4,9 +4,9 @@ import time
 
 from selenium import webdriver
 from proboscis.decorators import test
-from setup_org_account import SetupOrgAccount
+from pages.setup_org_account import SetupOrgAccount
 from proboscis.asserts import *
-from dataclasses import *
+from data.dataclasses import *
 
 driver = webdriver.Firefox()
 

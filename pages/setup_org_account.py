@@ -1,7 +1,7 @@
 __author__ = 'aberes'
 
-from base_page import BasePage
-from org_inform import OrgInformation
+from pages.base_page import BasePage
+from pages.org_inform import OrgInformation
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 
