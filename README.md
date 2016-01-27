@@ -1,6 +1,6 @@
 ##This project contains automation tests for testing registration
 ####*This project needs python 3.5*
-####*Have python 3.5 on yuor PC*
+####*Have python 3.5 on your PC*
 ####*Installation of the virtual environment:*
 ####*`virtualenv --no-site-packages <venv_name>`*
 ##Instructions:
